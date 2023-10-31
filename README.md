@@ -11,9 +11,13 @@
 ## 開発環境
 
 OS： Windows 11
+
 IDR：Eclipse
+
 使用言語：　Java 17
+
 使用フレームワーク： libGDX
+
 
 Javaを学習中のため、Javaを使用しています。
 

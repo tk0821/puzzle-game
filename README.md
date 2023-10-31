@@ -28,3 +28,11 @@ Javaを学習中のため、Javaを使用しています。
 + BGM, SEの再生させる。
 + ShapeRendererで表示させている部分をassetで表示させる。
 + フォントをデフォルトから変更する。
+
+## 実行
+
+desktop
+```
+./gradlew.bat desktop:run
+```
+*windowsでのみ動作確認
